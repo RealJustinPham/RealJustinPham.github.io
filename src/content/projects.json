@@ -1,0 +1,53 @@
+[
+  {
+    "slug": "trading-journal",
+    "title": "Trading Journal",
+    "tagline": "Log trades, review performance, export to CSV.",
+    "tags": ["Markets", "Tools"],
+    "status": "building",
+    "featured": true,
+    "links": {
+      "demo": "/tools/journal",
+      "github": "https://github.com/RealJustinPham"
+    },
+    "highlights": [
+      "Fast logging UX",
+      "Tag trades by setup",
+      "Export for analysis"
+    ]
+  },
+  {
+    "slug": "risk-calculator",
+    "title": "Risk Calculator",
+    "tagline": "Position sizing + R-multiple, made simple.",
+    "tags": ["Markets", "Tools"],
+    "status": "building",
+    "featured": true,
+    "links": {
+      "demo": "/tools/risk",
+      "github": "https://github.com/RealJustinPham"
+    },
+    "highlights": [
+      "Position sizing",
+      "R-multiple & expectancy",
+      "Clean mobile UX"
+    ]
+  },
+  {
+    "slug": "personal-site-v2",
+    "title": "Personal Site v2",
+    "tagline": "Lovable-level portfolio with real functionality.",
+    "tags": ["Web", "Brand"],
+    "status": "shipping",
+    "featured": true,
+    "links": {
+      "demo": "/",
+      "github": "https://github.com/RealJustinPham/RealJustinPham.github.io"
+    },
+    "highlights": [
+      "Projects hub + search",
+      "Now page + tools",
+      "Blog + proof pages"
+    ]
+  }
+]
